@@ -10,6 +10,9 @@ homepage: https://github.com/OGMS/ogms
 page: https://github.com/OGMS/ogms
 products:
   - id: ogms.owl
+license:
+  url: http://creativecommons.org/licenses/by/3.0/
+  label: CC-BY
 taxon:
   id: NCBITaxon:9606
   label: Homo sapiens
